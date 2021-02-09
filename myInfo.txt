@@ -1,4 +1,4 @@
-Hello.
-I am a Developer.
-I am from Bangalore.
+Hello
+I am a Developer2.
+I am from Vijayawada.
 I like travelling.
